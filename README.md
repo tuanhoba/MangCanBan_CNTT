@@ -3,7 +3,6 @@
 ## Giảng viên:
 - **Giảng viên**: Thạc Sĩ Hoàng Quốc Tuấn
 - **Chức danh**: Thạc sĩ
-- **Trường**: [Tên trường nơi giảng dạy] (nếu có thông tin)
 
 ## Mô tả môn học:
 Môn "Mạng Căn Bản" là môn học cơ sở dành cho sinh viên chuyên ngành Công nghệ thông tin, Kỹ thuật phần mềm, và các ngành liên quan. Môn học cung cấp những kiến thức cơ bản và nền tảng vững chắc về mạng máy tính, từ lý thuyết đến thực hành. Sinh viên sẽ được trang bị khả năng thiết kế, cấu hình, và quản lý mạng máy tính, cũng như hiểu được các giao thức và kỹ thuật bảo mật trong mạng.
