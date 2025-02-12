@@ -55,13 +55,30 @@ Môn "Mạng Căn Bản" là môn học cơ sở dành cho sinh viên chuyên ng
    - **Thiết lập và quản lý mạng trong doanh nghiệp**: Cấu hình router, switch, và các dịch vụ mạng.
    - **Ứng dụng của mạng trong IoT (Internet of Things)**: Kết nối và bảo mật thiết bị trong mạng IoT.
 
-## Phương pháp giảng dạy:
+### 8. Sơ đồ tư duy môn học - Mạng Máy Tính
+
+## 1. Tóm tắt nội dung Môn Mạng Máy Tính cơ bản
+[Link xem chi tiết](https://coggle.it/diagram/YzVAoOfA2wMrDtpf/t/t%C3%B3m-t%E1%BA%AFt-n%E1%BB%99i-dung)
+
+## 2. Mạng máy tính là gì?
+[Link xem chi tiết](https://coggle.it/diagram/YduIHfKhp3gp2kbd/t/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh)
+
+## 3. Các kiểu kết nối mạng máy tính
+[Link xem chi tiết](https://coggle.it/diagram/X5kWK1rFGDopWzT8/t/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh)
+
+## 4. Lợi ích kết nối máy tính trong mạng
+[Link xem chi tiết](https://coggle.it/diagram/YGGgdo_Z_NiDatQH/t/s%C6%A1-%C4%91%E1%BB%93-t%C6%B0-duy-m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh)
+
+## 5. Xem chi tiết về Mạng máy tính
+[Link xem chi tiết](https://coggle.it/diagram/ZP8T802xpN07Bobu/t/m%C3%B4n-m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh)
+
+### 9. Phương pháp giảng dạy:
 - **Lý thuyết**: Giảng viên cung cấp kiến thức nền tảng về lý thuyết mạng máy tính thông qua bài giảng.
 - **Thực hành**: Các buổi thực hành giúp sinh viên làm quen với các công cụ và thiết bị mạng, cấu hình mạng cơ bản và các tình huống thực tế.
 - **Dự án nhóm**: Sinh viên thực hiện các bài tập nhóm về thiết kế mạng và giải quyết các vấn đề thực tế liên quan đến mạng.
 - **Bài kiểm tra**: Kiểm tra giữa kỳ và cuối kỳ đánh giá sự hiểu biết của sinh viên về lý thuyết và thực hành.
 
-## Đánh giá môn học:
+### 10. Đánh giá môn học:
 - **Điểm giữa kỳ**: 40%
   - Kiểm tra lý thuyết và thực hành giữa kỳ.
   - Dự án nhóm hoặc bài tập lớn.
